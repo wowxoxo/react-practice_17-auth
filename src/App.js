@@ -5,7 +5,7 @@ import UserProfile from "./components/Profile/UserProfile";
 import AuthPage from "./pages/AuthPage";
 import HomePage from "./pages/HomePage";
 
-export const API_KEY = "AIzaSyCp3XhcJ6-D_5YgoIqWRxgkbLWgs2ZHCLE";
+export const API_KEY = "";
 
 function App() {
   return (
